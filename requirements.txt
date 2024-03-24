@@ -2,5 +2,5 @@ streamlit
 plotly.express
 pandas
 matplotlib
-BeautifulSoup
+BeautifulSoup4
 requests
